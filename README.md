@@ -3,7 +3,7 @@
 
 ## Description
 
-It is a interpreter for Monty ByteCodes files.
+Monty 0.98 is a scripting language that is first compiled into Monty byte codes (Just like Python). It relies on a unique stack, with specific instructions to manipulate it. The goal of this project is to create an interpreter for Monty ByteCodes files.
 
 ***
 
@@ -63,4 +63,4 @@ builders.c  helper.c   hsh          README.md  test
 ```
 
 ### Authors
-[Alexxy](https://github.com/Lexxyla) and [Akinloye Oluwakemi]] (https://github.com/Natacha-07)
+[Bamidele Adefolaju](https://github.com/Lexxyla) and [Akinloye Oluwakemi](https://github.com/Natacha-07)
