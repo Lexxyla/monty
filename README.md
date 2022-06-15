@@ -1,4 +1,5 @@
 # MONTY
+![alt text](https://pbs.twimg.com/media/CFYYWy6UEAE9Ow-.png)
 
 ## Description
 
@@ -6,24 +7,25 @@ It is a interpreter for Monty ByteCodes files.
 
 ***
 
-## Usage
+## Installation
 
 1. Clone the repository:
 ```console
 https://github.com/Lexxyla/monty.git
 ```
 
-2. Enter at directory
+## Usage
+1. Enter at directory
 ```console
 cd monty
 ```
 
-3. Compile:
+2. Compile:
 ```console
-gcc -Wall -Werror -Wextra -pedantic *.c -o monty
+gcc -Wall -Werror -Wextra -pedantic -std=c89 *.c -o monty
 ```
 
-4. Execute:
+3. Execute:
 ```console
 ./monty file.m
 //The file contains the bytcode instructions for example
@@ -61,4 +63,4 @@ builders.c  helper.c   hsh          README.md  test
 ```
 
 ### Authors
-Bamidele Adefolaju and Akinloye Oluwakemi
+{Bamidele Adefolaju](https://github.com/Lexxyla) and [Akinloye Oluwakemi] (https://github.com/Natacha-07)
