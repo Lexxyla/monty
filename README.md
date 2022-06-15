@@ -63,4 +63,4 @@ builders.c  helper.c   hsh          README.md  test
 ```
 
 ### Authors
-{Bamidele Adefolaju](https://github.com/Lexxyla) and [Akinloye Oluwakemi] (https://github.com/Natacha-07)
+[Alexxy](https://github.com/Lexxyla) and [Akinloye Oluwakemi]] (https://github.com/Natacha-07)
